@@ -1,4 +1,7 @@
-
+"homepage": ".",
+"engines": {
+  "node": "18.x"
+}
 {
   "name": "dealshunter-web",
   "version": "1.0.1",
